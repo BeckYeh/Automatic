@@ -1,0 +1,6 @@
+Alex 100000
+Rain 80000
+Egon 50000
+Yuan 30000
+Beck 35000
+Jacky 45000
