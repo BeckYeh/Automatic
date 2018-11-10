@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a0e8a6d-c6c2-4390-80d3-5ef85cb31eac" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Automotic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/36d3ce8a-3cd6-4bd9-a6e6-59c0a2258058.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/36d3ce8a-3cd6-4bd9-a6e6-59c0a2258058/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/a23165beck.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/day4.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/day4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/employee.db" beforeDir="false" afterPath="$PROJECT_DIR$/day4/employee.db" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,38 +53,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="day4.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day4/day4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
-              <folding>
-                <element signature="e#66#80#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_db.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day4/create_db.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="employee" pinned="false" current-in-tab="false">
-        <entry file="das://afaa44ef-a83f-4f81-be96-56c0070dcffb/schema/main/table/employee">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,6 +95,7 @@
         <option value="$PROJECT_DIR$/day1/homework1.py" />
         <option value="$PROJECT_DIR$/day4/create_db.py" />
         <option value="$PROJECT_DIR$/day4/day4.py" />
+        <option value="$PROJECT_DIR$/day5/homework2.py" />
       </list>
     </option>
   </component>
@@ -155,9 +114,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="9" />
-    <option name="y" value="9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="762" />
+    <option name="y" value="213" />
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
@@ -167,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,22 +134,17 @@
               <item name="Automatic" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automatic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Automatic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automatic" type="462c0819:PsiDirectoryNode" />
-              <item name="day4" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="database.data.csv.formats" />
   </component>
@@ -242,6 +197,21 @@
       <option name="presentableId" value="Default" />
       <updated>1508275680405</updated>
     </task>
+    <task id="LOCAL-00001" summary="day4 complete">
+      <created>1531698534629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531698534629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day5 計算機">
+      <created>1532242919747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532242919747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -254,32 +224,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
+    <frame x="762" y="213" width="1920" height="1040" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007949" side_tool="true" weight="0.3257635" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007949" side_tool="true" weight="0.32498044" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32811275" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32967892" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32498044" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49960256" visible="true" weight="0.32498044" />
-      <window_info anchor="bottom" id="Database Console" order="11" sideWeight="0.49920508" weight="0.32498044" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08664547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32811275" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49920508" visible="true" weight="0.46059933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117741935" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.2436407" />
+      <window_info anchor="right" id="Database" order="3" weight="0.2436407" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3298887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="11" sideWeight="0.49920508" weight="0.32498044" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
       <window_info anchor="right" id="Data View" order="4" weight="0.32995737" />
     </layout>
@@ -290,19 +259,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day4 complete" />
+    <MESSAGE value="day5 計算機" />
+    <option name="LAST_COMMIT_MESSAGE" value="day5 計算機" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day4/create_db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://36d3ce8a-3cd6-4bd9-a6e6-59c0a2258058/schema/main/table/employee" />
     <entry file="file://$PROJECT_DIR$/day4/day4.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -560,11 +527,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/day4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
-          <folding>
-            <element signature="e#66#80#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="370">
+          <caret line="26" column="66" lean-forward="true" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/homework2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
